@@ -1,0 +1,2 @@
+15:01:39 <I> [kb/kb_session.cpp:1549] buf : '00218DE127^L^_OPER0143Z00       O00F    SWQM2412000001                   043   F303E1270C1F1500572500                             6       00082SC지정된 서비스 처리시간을 초과하였습니다.(TIME_OUT)                              ', ''
+15:01:39 <W> [kb/kb_session.cpp:1566] tr error : (F303) 지정된 서비스 처리시간을 초과하였습니다.(TIME_OUT)
